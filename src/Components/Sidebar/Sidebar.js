@@ -37,7 +37,7 @@ function Sidebar() {
                 <img src={headerimage} className='logo_img'></img>
             </div>
 
-        
+
             <div class="profile">
                 <div class="logo_1">
                     <img src={sidebarimage} className='logo_image'></img>
