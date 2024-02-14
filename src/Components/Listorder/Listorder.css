@@ -1,0 +1,17 @@
+.list_main_div{
+    padding: 24px;
+}
+
+.list_first_div{
+    margin-bottom: 24px;
+}
+
+.button_list{
+    background-color:  #ff470d;
+    border-color: #ff470d;
+}
+
+.button_list:hover{
+    background-color: #ff470d;
+    border-color: #ff470d;
+}

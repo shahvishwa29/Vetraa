@@ -1,0 +1,40 @@
+.invoice_main_div{
+    padding: 24px;
+}
+
+.icon_btn{
+    margin-right: 9px;
+}
+.download_btn{
+    color: #ff6e40;
+    border-color: #ff6e40;
+}
+
+.download_btn:hover{
+    border-color: #ff6e40;
+    background-color: #ff6e40;
+}
+
+.print_btn{
+    color: rgb(211, 72, 211);
+    border-color:rgb(211, 72, 211) ;
+}
+
+.print_btn:hover{
+    background-color: rgb(211, 72, 211);
+    border-color: rgb(211, 72, 211);
+}
+
+.share_btn{
+    color: green;
+    border-color: green;
+}
+
+.share_btn:hover{
+    background-color: green;
+    border-color: green;
+}
+
+.logo_img_1{
+    width: 120px;
+}

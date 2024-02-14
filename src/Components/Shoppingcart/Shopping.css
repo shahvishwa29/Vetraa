@@ -1,0 +1,15 @@
+.shopping_main_div{
+    padding: 24px;
+}
+
+.shopping_first_div{
+    margin-bottom: 24px;
+}
+.order_notes:focus{
+    box-shadow: none;
+}
+
+.cart_image{
+    border-radius: 0.5rem;
+    width: 60px;
+}

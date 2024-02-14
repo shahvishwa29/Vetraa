@@ -1,0 +1,23 @@
+.checkout_main_div{
+    padding: 24px;
+}
+
+.checkout_first_div{
+    margin-bottom: 24px;
+}
+
+.order_sum{
+    margin-bottom: 24px;
+}
+
+.products_check{
+    margin-bottom: 24px;
+}
+
+.checkout_img{
+    width: 60px;
+    border-radius: 0.5rem;
+}
+.price_check{
+    margin-bottom: 24px;
+}

@@ -1,0 +1,53 @@
+.buyers_img{
+    height: 5.8rem;
+    width: 5.8rem;
+}
+.buyers_btn{
+    background-color: #ff6e40;
+    border: #ff6e40;
+}
+.buyer_profile_cover{
+    height: 200px;
+    padding: 30px 20px;
+    border-radius: 0.5rem;
+    border: 1px solid black;
+}
+
+.buyers_dashboard{
+    padding: 24px;
+}
+
+.order_buyers{
+    background-color: cyan;
+    color: white;
+}
+
+.order_buyers_1{
+    background-color: purple;
+    color: white;
+}
+
+.order_buyers_2{
+    background-color: teal;
+    color: white;
+}
+
+.link_color{
+    background-color: #FFE9E3;
+    color: #FF6E40;
+}
+.avatar_buyers{
+    background-color:#faae42;
+    height: 3rem;
+    width:3rem;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.buyer_image{
+    background-size: cover;
+    background-position: 50%;
+
+}

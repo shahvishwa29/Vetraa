@@ -1,0 +1,20 @@
+:root {
+    --main-back: #F5F4FE;
+    --green-color: #05b171;
+    --grey-color: grey;
+    --red-color: #ea4444;
+    --white-color: white;
+    --black-color: black;
+    --orange-color: #ff6e40;
+    --light-green-color: #66B575;
+    --light-grey-color: #6c757d;
+    --purple-color: #9932e7;
+    --dark-red-color: #ff470d;
+}
+
+
+body {
+    margin: 0;
+    padding: 0;
+
+}

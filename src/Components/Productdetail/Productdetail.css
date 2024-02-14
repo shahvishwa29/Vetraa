@@ -1,0 +1,96 @@
+.product_detail_main_div {
+    padding: 24px;
+}
+
+.product_detail_first_div {
+    margin-bottom: 24px;
+}
+
+.product_detail_nav {
+    margin-bottom: 24px;
+}
+
+
+
+.slick-prev::before {
+    color: black !important;
+}
+
+.slick-next::before {
+    color: black !important;
+}
+
+.product_detail_img {
+    width: 303px;
+}
+
+.product_detail_img_1 {
+    margin: 8px;
+}
+
+.slik_wapper {
+    padding: 0px 30px;
+}
+
+.button_product {
+    background-color: var(--dark-red-color);
+    border-color: var(--dark-red-color);
+}
+
+.button_product:hover {
+    background-color: var(--dark-red-color);
+    border-color: var(--dark-red-color);
+}
+
+
+.description_para {
+    border: 1px none;
+    border-radius: 10px;
+    background-color: var(--white-color);
+}
+
+.button_para {
+    border-bottom: 1px solid grey;
+}
+
+.description {
+    background-color: white;
+    border: 1px none;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.descript_button {
+    background-color: #FFE9E3;
+    border-color: #FFE9E3;
+    color: var(--dark-red-color);
+    border-radius: 10px
+}
+
+
+
+/* .Review_button{
+    background-color:#FFE9E3;
+    border-color: #FFE9E3;
+    color: var(--dark-red-color);
+    border-radius: 1px;
+}
+
+.SSS_button{
+    background-color:#FFE9E3;
+    border-color: #FFE9E3;
+    color: var(--dark-red-color);
+    border-radius: 1px;
+} */
+
+
+.btn_active {
+    background-color: #FFE9E3;
+    color: orange;
+}
+
+.btn_non {
+    background-color: white;
+    color: black;
+}
+

@@ -1,0 +1,15 @@
+.footer_main_div{
+    padding: 0px 24px 24px 24px;
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+}
+
+.laborasyon{
+    color: #FF470D;
+    text-decoration: none;
+}
+
+.link_footer{
+    color: black;
+}

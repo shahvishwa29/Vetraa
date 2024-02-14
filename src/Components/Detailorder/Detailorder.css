@@ -1,0 +1,88 @@
+.detail_main_div{
+    padding: 24px;
+}
+
+.dash_board{
+    color: var(--dark-red-color);
+     text-decoration: none;
+}
+
+.detail_first_div{
+    margin-bottom: 24px;
+}
+
+.detail_second_div{
+    margin-bottom: 48px;
+}
+
+.detail_list{
+    margin-bottom: 3rem;
+}
+
+.order_no{
+    color: var(--dark-red-color);
+    text-decoration: none;
+}
+
+.edit_sec{
+    color: var(--dark-red-color);
+    text-decoration: none;
+}
+
+.price_card{
+    margin-bottom: 24px;
+    border-radius: 1rem;
+    border: none;
+}
+
+.price_title{
+    margin-bottom: 24px;
+}
+
+.price_sub{
+    margin-bottom: 16px;
+}
+
+.price_shipping{
+    margin-bottom: 16px;
+}
+.price_tax{
+    margin-bottom: 16px;
+}
+
+.invoice_title{
+    margin-bottom: 24px;
+}
+
+.Invoices_card{
+    margin-bottom: 24px;
+    border-radius: 1rem;
+    border: none;
+}
+.Invoices_sub{
+    margin-bottom: 16px;
+}
+
+.Invoices_shipping{
+    margin-bottom: 16px;
+}
+
+.Invoices_tax{
+    margin-bottom: 16px;
+}
+.Invoices_button{
+    margin-top: 24px;
+}
+.button_hover{
+    color: var(--orange-color);
+    border-color: var(--orange-color);
+}
+
+.button_hover:hover{
+   background-color: var(--orange-color);
+   border-color: var(--orange-color);
+}
+.id_no{
+    color: var(--dark-red-color);
+}
+
